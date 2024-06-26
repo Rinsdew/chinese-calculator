@@ -1,0 +1,8 @@
+All are some harmonics. This is a calculator inspired by Mandarin numbers and their meanings. In Mandarin, the numbers can sound like words and be misunderstood, leading to classic associations like 520 meaning "I love you." 
+In this calculator, some results resemble love sentences instead of answers.
+
+It is made of different numbers because the original ones were too long.
+SOME HINTS
+The hidden sentences' actual results are not longer than 3 steps.
+Some are angel numbers.
+Try 500+20.
